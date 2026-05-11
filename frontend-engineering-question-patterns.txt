@@ -1,0 +1,36 @@
+Frontend Engineering DSA Questions - Unsolved
+
+
+
+2. Move Zeroes
+   Given an array, move all zeroes to the end while keeping the order of the
+   non-zero elements the same.
+
+3. Remove Duplicates From Sorted Array
+   Given a sorted array, remove duplicate values in-place and return the count
+   of unique elements.
+
+4. Best Time to Buy and Sell Stock
+   Given an array where each value is the stock price on that day, find the
+   maximum profit from one buy and one sell.
+
+5. Merge Two Sorted Arrays
+   Given two sorted arrays, merge them into one sorted array.
+
+6. Product of Array Except Self
+   Given an array, return a new array where each index contains the product of
+   all other numbers except itself.
+
+7. Maximum Subarray Sum
+   Given an array of integers, find the largest possible sum of a contiguous
+   subarray.
+
+8. Find First and Last Position
+   Given a sorted array and a target, return the first and last index where the
+   target appears. Return [-1, -1] if it does not exist.
+
+9. Rotate Array
+   Given an array and a number k, rotate the array to the right by k positions.
+
+10. Intersection of Two Arrays
+    Given two arrays, return the values that appear in both arrays.
